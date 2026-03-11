@@ -16,7 +16,7 @@
     <main class="main-content">
       <!-- 首页/简介区块 -->
       <section id="home" class="section home-section">
-        <h1 class="title">Hi, 我是[你的名字]</h1>
+        <h1 class="title">Hi, 我是杨诗瑜</h1>
         <p class="subtitle">游戏系统策划 | 深度玩家 | AI工具践行者</p>
         <div class="intro-text">
           擅长系统设计、用户体验优化与跨部门协作，拥有从0到1推动产品落地的完整经验。
